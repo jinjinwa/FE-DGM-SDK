@@ -1,0 +1,30 @@
+{
+  "name": "fe-dgm-sdk",
+  "version": "1.0.0",
+  "description": "前端数据搜集监控sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "rollup": "^0.67.3",
+    "rollup-plugin-babel": "^3.0.4",
+    "rollup-plugin-eslint": "^4.0.0",
+    "rollup-plugin-uglify": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinjinwa/FE-DGM-SDK.git"
+  },
+  "keywords": [
+    "性能监控",
+    "埋点"
+  ],
+  "author": "superman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jinjinwa/FE-DGM-SDK/issues"
+  },
+  "homepage": "https://github.com/jinjinwa/FE-DGM-SDK#readme"
+}
